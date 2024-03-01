@@ -1,0 +1,8 @@
+<div class="container" *ngFor="let user of usersAll">
+<div class="user_container">
+<div class="user_name">{{user.name}}</div>
+<div class="use_job">{{user.job}}</div>
+<button (click)="showDetails(user)">Details</button>
+
+</div>
+</div>

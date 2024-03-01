@@ -1,0 +1,22 @@
+.user_container{
+display: flex;
+margin: 5px 0px;
+
+}
+
+.user_name{
+width: 120px;
+padding: 10px 30px;
+background-color: #b2c2e3;
+}
+
+.use_job{
+  width: 120px;
+  padding: 10px 30px;
+  background-color: #9e9fe8;
+}
+
+button{
+width: 100px;
+margin: 0px 10px;
+}

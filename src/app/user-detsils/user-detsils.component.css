@@ -1,0 +1,11 @@
+.container{
+margin-top: 28px;
+padding: 10px 20px;
+display: flex;
+height: 270px;
+background-color: rgb(239, 226, 221);
+}
+
+.user_details{
+padding: 20px 20px;
+}
